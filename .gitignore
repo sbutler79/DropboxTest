@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build and unit tests
+test-output/
+target/
+webdriver/
+
+screenshots/
+
+dependency-reduced-pom.xml
+null/
+
+# Logs
+logs/
+*.log
+
+# intellij
+.idea/
+*.iml
+
+# OS
+.DS_Store

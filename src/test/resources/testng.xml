@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestSuite1" verbose="1" >
+    <test name="OptileTestsPages"   >
+        <packages>
+            <package name="com.dropbox.pages" />
+        </packages>
+    </test>
+</suite>
